@@ -9,4 +9,3 @@ def test_q4_lista_vazia():
     arr = []
     completar_intervalo_inplace(arr)
     assert arr == []
-
