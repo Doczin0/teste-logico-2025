@@ -27,4 +27,3 @@ if __name__ == "__main__":
     root = montar_arvore_exemplo()
     for alvo in ("Goiaba", "Cebola", "Abacaxi", "Maçã", "Inexistente"):
         print(alvo, "=>", caminho_ate_palavra(root, alvo))
-
