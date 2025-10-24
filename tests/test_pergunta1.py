@@ -15,4 +15,3 @@ def test_q1_todos_uns():
     arr = [1,1,1]
     mover_uns_para_esquerda_inplace(arr)
     assert arr == [1,1,1]
-
