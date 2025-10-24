@@ -1,0 +1,11 @@
+[project]
+name = "teste-logico-2025"
+version = "0.1.0"
+description = "Soluções em Python para o Teste Lógico 2025."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+addopts = "-q"
+
