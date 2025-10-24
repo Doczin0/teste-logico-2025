@@ -11,3 +11,4 @@ if __name__ == "__main__":
     arr = [2, 1, 5, 2, 5, 2, 1, 1, 1, 7, 9, 13, 127, 21]
     mover_uns_para_esquerda_inplace(arr)
     print(arr)
+   
