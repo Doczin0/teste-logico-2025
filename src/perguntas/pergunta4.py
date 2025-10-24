@@ -12,4 +12,3 @@ if __name__ == "__main__":
     arr = [9, 2, 3, 1, 4]
     completar_intervalo_inplace(arr)
     print(arr)
-
