@@ -6,4 +6,3 @@ def test_q2_caminhos_basicos():
     assert caminho_ate_palavra(root, "Goiaba") == "Maçã -> Morango -> Goiaba"
     assert caminho_ate_palavra(root, "Cebola") == "Maçã -> Pera -> Laranja -> Cebola"
     assert caminho_ate_palavra(root, "Inexistente") is None
-
