@@ -11,4 +11,3 @@ def test_q3_com_repetidos():
     arr = [5,5]
     assert existe_par_com_soma(arr, 10)
     assert not existe_par_com_soma(arr, 11)
-
