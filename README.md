@@ -64,3 +64,4 @@ Use `scripts/run_all.py` para ver exemplos em execução (entrada/saída) e vali
 Veja `uso_de_ia.md` descrevendo como a IA foi empregada, com senso crítico e validações.
 
 
+
